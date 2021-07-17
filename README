@@ -4,6 +4,12 @@ Bluetooth fall detection system.
 Created by Jacqueline Radding. 
 
 
+The Bounce Back Fall Detection system wirelessly alerts senior center workers when a patient falls. 
+Elderly patients can fall and be unable to press a fall button if they have a medical emergency. The Bounce Back is a wireless, 
+Bluetooth solution that protects the elderly and alerts staff if medical attention is needed to a main computer or tablet.  
+Senior centers are understaffed due to COVID-19 and need to ensure the safety of their patients with reduced contact. 
+
+
 
 Project References (tutorials, websites, etc.):
 1.       https://www.instructables.com/How-to-Receive-Arduino-Sensor-Data-on-Your-Android/
