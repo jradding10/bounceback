@@ -1,6 +1,14 @@
-Bluetooth fall detection system. 
+Bluetooth fall detection system.
 
-Inspired by other accelerometer related projects linked here: 
+
+Created by Jacqueline Radding. 
+
+
+
+Project References (tutorials, websites, etc.):
+1.       https://www.instructables.com/How-to-Receive-Arduino-Sensor-Data-on-Your-Android/
+2.        https://github.com/jarzebski/Arduino-MPU6050/blob/master/MPU6050_free_fall/MPU6050_free_fall.ino
+3.        https://www.hackster.io/ashshaks/diy-iot-fall-detection-using-nodemcu-9f18c9
 
 
 
