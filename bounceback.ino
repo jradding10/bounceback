@@ -1,6 +1,6 @@
-//FALLMETER
+//bounceback
 //BY JACQUELINE RADDING
-// FALLMETER is a wireless device that detects a fall or pressed emergency button and sends the recent fall data to a bluetooth connected device.
+// Bounce Back is a wireless device that detects a fall or pressed emergency button and sends the recent fall data to a bluetooth connected device.
 #include <SoftwareSerial.h> // bluetooth serial reading
 
 SoftwareSerial BTserial(10, 11); // RX | TX for bluetooth
