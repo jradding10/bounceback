@@ -64,7 +64,7 @@ void loop() {
   int AM = (Raw_AM * 10) - 2; // get this value to the four values I want for my switch case (2,4,8,16)
   // it by for using if else conditions
 
-  //sendonline();
+  //sendonline(); // reference from jarzebski https://github.com/jarzebski/Arduino-MPU6050/blob/master/MPU6050_free_fall/MPU6050_free_fall.ino
   switch (AM) // determines the severity of the fall
   {
     case 16:            Serial.println("16 g"); fall = true; break; //this is the fall threshold of the magnitude of acceleration send fall
