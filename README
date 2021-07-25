@@ -35,6 +35,8 @@ Yellow LED
 Accelerometer
 10)
 Piezo Buzzer
+11) Bluetooth enabled device
+  - An Android tablet was used to recieve data via Bluetooth with the Arduino Bluetooth Terminal app by Frederik Hauke from the Google Play Store. 
 
 
 
