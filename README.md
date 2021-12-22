@@ -9,32 +9,23 @@ Elderly patients can fall and be unable to press a fall button if they have a me
 Bluetooth solution that protects the elderly and alerts staff if medical attention is needed to a main computer or tablet.  
 Senior centers are understaffed due to COVID-19 and need to ensure the safety of their patients with reduced contact. 
 
-Find the schematic here: ![image](https://github.com/jradding10/bounceback/blob/99dba2e0b93b4d55a0eb714e1a566edb81bd723c/bounceback%20hardware.JPG)
+## Find the schematic here: 
+![image](https://github.com/jradding10/bounceback/blob/99dba2e0b93b4d55a0eb714e1a566edb81bd723c/bounceback%20hardware.JPG)
 
 
 
 ## Materials Needed:
 
-1.
-Arduino Uno
-2.
-9V Battery
-3.
-Bread Board
-4.
-10K ohm Potentiometer
-5.
-Wires x 14
-6.
-Push Button
-7.
-HC-05 Bluetooth Module
-8.
-Yellow LED
-9.
-Accelerometer
-10.
-Piezo Buzzer
+1.Arduino Uno
+2.9V Battery
+3.Bread Board
+4.10K ohm Potentiometer
+5.Wires x 14
+6.Push Button
+7.HC-05 Bluetooth Module
+8.Yellow LED
+9.Accelerometer
+10.Piezo Buzzer
 11. Bluetooth enabled device
   - An Android tablet was used to recieve data via Bluetooth with the Arduino Bluetooth Terminal app by Frederik Hauke from the Google Play Store. 
 
