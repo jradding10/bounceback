@@ -9,7 +9,7 @@ Elderly patients can fall and be unable to press a fall button if they have a me
 Bluetooth solution that protects the elderly and alerts staff if medical attention is needed to a main computer or tablet.  
 Senior centers are understaffed due to COVID-19 and need to ensure the safety of their patients with reduced contact. 
 
-Find the schematic here: !(https://github.com/jradding10/bounceback/blob/99dba2e0b93b4d55a0eb714e1a566edb81bd723c/bounceback%20hardware.JPG)
+Find the schematic here: ![image](https://github.com/jradding10/bounceback/blob/99dba2e0b93b4d55a0eb714e1a566edb81bd723c/bounceback%20hardware.JPG)
 
 
 
