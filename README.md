@@ -15,27 +15,27 @@ Find the schematic here: ![image](https://github.com/jradding10/bounceback/blob/
 
 ## Materials Needed:
 
-1)
+1.
 Arduino Uno
-2)
+2.
 9V Battery
-3)
+3.
 Bread Board
-4)
+4.
 10K ohm Potentiometer
-5)
+5.
 Wires x 14
-6)
+6.
 Push Button
-7)
+7.
 HC-05 Bluetooth Module
-8)
+8.
 Yellow LED
-9)
+9.
 Accelerometer
-10)
+10.
 Piezo Buzzer
-11) Bluetooth enabled device
+11. Bluetooth enabled device
   - An Android tablet was used to recieve data via Bluetooth with the Arduino Bluetooth Terminal app by Frederik Hauke from the Google Play Store. 
 
 
